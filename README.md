@@ -8,10 +8,8 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>R</b> 
-- <b>ggplot</b>
-- <b>Shiny</b>
-- <b>shinyapps.io</b>
+- <b>Excel</b> 
+
 
 <br><br>
 
