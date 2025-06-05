@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project visualizes the student population distribution across counties in Washington State, categorized by race and year. Using interactive maps and graphs, it highlights demographic trends overtime, providing a clear view of shifts in enrollment figures among different racial groups across different counties in Washington State, ultimately aiding in educational insights and policy decisions.  
+This interactive dashboard analyzes sales performance for my personal Depop business, offering a detailed breakdown of key metrics such as monthly revenue, sales volume, and product category trends. Built to track and optimize real-world performance, the dashboard features dynamic filtering and clear visualizations to highlight sales trends over time and identify top-performing items. It provides valuable insights into customer purchasing behavior, ultimately supporting data-driven strategies to grow and manage my online retail business effectively.  
 <br />
 
 
