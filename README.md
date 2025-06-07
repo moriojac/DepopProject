@@ -35,9 +35,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
         <img src="DepopProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <h6 style="text-align: center; min-height: 150px;">
-          - Grouping Dataset: Dataset was grouped by county and school year, preparing the data for summary operations within each county–school year combination.
-         <br><br> - Summarizing Dataset: Calculated and assigned the population percentage of each ethnic group for each county–school year combination.
-         <br><br> - Merging Datasets: Merged the dataset to include the geographic coordinates of each county to enable map visualization.
+          Data of all 340 sales from 2024 was manually entered into an excel spreadsheet, then it was cleaned and standardized to ensure consistency across categories such as item                 type, date of sale, source of inventory and profit. This ensured the dataset was accurate, complete, consistent, and ready for analysis.
         </h6>
       </div>
     </td>
