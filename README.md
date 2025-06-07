@@ -1,4 +1,4 @@
-<h1>Depop Sales Dashboard: A Performance Breakdown - <a href="./DepopSales_2024.csv" download>Excel Sheet</a> </h1>
+<h1>Depop Sales Dashboard: A Performance Breakdown - <a href="./DepopSales_2024.xlsx" download>Excel Sheet</a> </h1>
 
 
 <h2>Description</h2>
