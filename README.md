@@ -21,7 +21,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
   <tr>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="WAstudentProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="DepopProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
@@ -33,7 +33,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="WAstudentProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="DepopProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <h6 style="text-align: center; min-height: 150px;">
           - Grouping Dataset: Dataset was grouped by county and school year, preparing the data for summary operations within each county–school year combination.
@@ -44,7 +44,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="WAstudentProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="DepopProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
         <h6 style="text-align: center; min-height: 150px;">
           Data is manipulated into several visualizations, categorized into two sections:
@@ -55,7 +55,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="WAstudentProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="DepopProject.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <h6 style="text-align: center; min-height: 150px;">
           The goal of this data is to offer insights that assist educators, policymakers, and researchers in understanding student population trends across Washington State, enabling 
