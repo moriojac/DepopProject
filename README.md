@@ -58,10 +58,10 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
         <img src="DepopProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <h6 style="text-align: center; min-height: 150px;">
-          The goal of this data is to offer insights that assist educators, policymakers, and researchers in understanding student population trends across Washington State, enabling 
-          data-driven decision-making.
-         <br><br> Insights from the data can support the development of targeted educational strategies, such as resource allocation for underrepresented groups, district-level 
-          planning, and policies that address racial disparities in enrollment over time.
+          The goal of this data is to generate insights that support the growth and efficiency of my personal Depop business, allowing me to interpret trends and make informed data-  
+         driven decisions.
+         <br><br> Insights from the data help me refine sourcing strategies, focus on the most profitable brands and categories, adjust pricing based on seasonal demand, and better   
+         understand buyer behavior to increase overall sales performance.
         </h6>
       </div>
     </td>
