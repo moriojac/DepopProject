@@ -55,7 +55,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="DepopProject.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="DepopProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <h6 style="text-align: center; min-height: 150px;">
           The goal of this data is to offer insights that assist educators, policymakers, and researchers in understanding student population trends across Washington State, enabling 
