@@ -35,7 +35,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
         <img src="DepopProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <h6 style="text-align: center; min-height: 150px;">
-          Data of all 340 sales from 2024 was manually entered into an Excel spreadsheet, then it was cleaned and standardized to ensure consistency across categories such as item                 type, date of sale, source of inventory and profit. This ensured the dataset was accurate, complete, consistent, and ready for analysis.
+          Data of all 340 sales from 2024 was manually entered into an Excel spreadsheet through a custom data validation system, then it was cleaned and standardized to ensure consistency across categories such as item                 type, date of sale, source of inventory and profit. This ensured the dataset was accurate, complete, consistent, and ready for analysis.
         </h6>
       </div>
     </td>
