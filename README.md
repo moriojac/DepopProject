@@ -10,7 +10,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
 
 - <b>Excel</b>
 - <b>PivotTables</b>
-- b>Slicers</b>
+- <b>Slicers</b>
 
 
 <br><br>
