@@ -8,7 +8,8 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Excel</b> 
+- <b>Excel</b>
+- <b>PivotTables</b>
 
 
 <br><br>
