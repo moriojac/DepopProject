@@ -27,7 +27,7 @@ This interactive dashboard analyzes sales performance for my personal Depop busi
         <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
-          This project is based on sales transaction data gathered from my own Depop business operations throughout 2024.
+          This project is based on sales transaction data gathered from my own Depop business operations throughout 2024. Transfered and reconsoiled sales data from Depop to Excel.
           <br><br> <a href="https://www.depop.com/moriojac/">My Depop Page</a>
         </h6>
       </div>
